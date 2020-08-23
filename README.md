@@ -1,8 +1,8 @@
 ### 👋 Introduction
 
 Hi guys, I'm **Levi Bland**.  
-I have some experience with **C**, **C++**, **Golang**, **Python** and **JavaScript**, contact me if you have something interesting or some questions!
-I am currently learning **Assembly(x86)**(Why? because I want to.), **VDHL** and **Rust**.
+I have experience with **C**, **C++**, **Golang**, **Python** and **JavaScript**, contact me if you have something interesting or some questions!
+I am currently learning **Assembly(x86)**(Why? because I want to.), **VHDL** and **Rust**.
 
 Email: __levibland@student.hhs.school.nz__
 
