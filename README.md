@@ -13,4 +13,4 @@ Email: __levibland@student.hhs.school.nz__
 
 
 ---
-From [Levi Bland](https://github.com/levibland)
+[Levi Bland](https://github.com/levibland)
