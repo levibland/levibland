@@ -7,7 +7,7 @@ I am currently learning **Assembly(x86)**, **VHDL** and **Rust**.
 
 Email: __levibland@student.hhs.school.nz__
 
-![levibland's Github stats](https://github-readme-stats.vercel.app/api?username=levibland&show_icons=true)
+![levibland's Github stats](https://github-readme-stats.vercel.app/api?username=levibland&show_icons=true&hide_border=true&count_private=true&theme=radical)
 
 
 
